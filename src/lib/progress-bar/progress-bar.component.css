@@ -1,0 +1,9 @@
+.progress-bar-wrapper {
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.progress-bar-expandable-bar {
+    height: 100%;
+    transition: width 100ms linear;
+}
